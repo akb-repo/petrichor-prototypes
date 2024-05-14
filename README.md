@@ -1,4 +1,7 @@
-# AKB Petrichor
+> [!CAUTION]
+> These files are ${\textsf{\color{red}NOT COMPATIBLE}}$ with the [group buy](https://geekhack.org/index.php?topic=122694.0) board. 
+
+# AKB Petrichor Prototype Rounds
 
 [![AKB Petrichor](./images/petrichor.jpg)](./images/petrichor.jpg)
 
